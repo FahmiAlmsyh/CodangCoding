@@ -23,6 +23,8 @@ class DetailPhoneActivity : AppCompatActivity() {
 
         binding.tvName.text = data?.name
         binding.tvDescription.text = data?.detail
+
+        
     }
 
 }

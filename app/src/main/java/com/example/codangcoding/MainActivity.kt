@@ -7,7 +7,7 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.codangcoding.adapter.listPhoneAdapter
+import com.example.codangcoding.adapter.ListPhoneAdapter
 import com.example.codangcoding.databinding.ActivityMainBinding
 import com.example.codangcoding.model.dataPhone
 
@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     private fun showRecycleView() {
         rvPhone.layoutManager = LinearLayoutManager(this)
 
-        val listPhoneAdapter = listPhoneAdapter(list)
+        val listPhoneAdapter = ListPhoneAdapter(list)
         rvPhone.adapter = listPhoneAdapter
     }
 
