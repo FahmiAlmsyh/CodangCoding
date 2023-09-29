@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CodangCoding</string>
+
+    <string-array name="name_phone">
+        <item>Iphone 14 Pro Max</item>
+        <item>Iphone SE (Generasi ke-3)</item>
+        <item>Iphone 13 Pro Max</item>
+        <item>Iphone 12 Pro Max</item>
+        <item>Iphone 11 Pro Max</item>
+        <item>Iphone Xs Max</item>
+        <item>Iphone XR</item>
+        <item>Iphone X</item>
+        <item>Iphone 8+</item>
+        <item>Iphone 7+</item>
+    </string-array>
+
+    <string-array name="detail_phone">
+        <item>iPhone 14 Pro Max memiliki layar Super Retina XDR menyeluruh 6,7 inci1. Bagian belakangnya terbuat dari kaca matte premium dan terdapat lapisan baja tahan karat dengan tepian rata di sekeliling rangka. Tombol samping berada di sisi kanan perangkat. Terdapat tiga kamera di bagian belakang: Ultra Lebar, Utama, dan Telefoto. Terdapat Pemindai LiDAR di bagian belakang. Terdapat kilat True Tone LED di bagian belakang. Di Amerika Serikat, tidak ada baki SIM. Di negara atau wilayah lain, baki SIM berada di sisi kiri yang menampung kartu nano-SIM “fourth form factor” (4FF).</item>
+        <item>Layar berukuran 4,7 inci (diagonal). Bagian depan yang terbuat dari kaca berbentuk rata dengan tepi yang melengkung. Bagian belakang terbuat dari kaca, dan terdapat pita aluminium teranodisasi yang mengitari rangkanya. Tombol samping berada di sisi kanan perangkat. Perangkat memiliki tombol Utama solid-state dengan Touch ID. Terdapat kamera Lebar 12 MP di bagian belakang. Terdapat kilat True Tone LED di bagian belakang dan baki SIM di sisi kanan untuk nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM.</item>
+        <item>iPhone 13 Pro Max memiliki layar Super Retina XDR menyeluruh 6,7 inci1 dengan ProMotion. Bagian belakangnya terbuat dari kaca matte bertekstur dan terdapat lapisan baja tahan karat dengan tepian rata di sekeliling rangka. Tombol samping berada di sisi kanan perangkat. Terdapat tiga kamera 12 MP di bagian belakang: Ultra Lebar, Lebar, dan Telefoto. Terdapat Pemindai LiDAR di bagian belakang. Terdapat lampu kilat True Tone Dual-LED di bagian belakang dan baki SIM di sisi kiri yang menampung kartu nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM.</item>
+        <item>iPhone 12 Pro Max memiliki layar Super Retina XDR menyeluruh 6,7 inci1. Bagian belakangnya terbuat dari kaca matte bertekstur dan terdapat lapisan baja tahan karat dengan tepian rata di sekeliling rangka. Tombol samping berada di sisi kanan perangkat. Terdapat tiga kamera 12 MP di bagian belakang: Ultra Lebar, Lebar, dan Telefoto. Terdapat Pemindai LiDAR di bagian belakang. Terdapat lampu kilat True Tone Dual-LED di bagian belakang dan baki SIM di sisi kiri yang menampung kartu nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM.</item>
+        <item>iPhone 11 Pro Max memiliki layar Super Retina XDR menyeluruh 6,5 inci1. Bagian belakangnya terbuat dari kaca matte bertekstur dan terdapat lapisan baja tahan karat di sekeliling rangka. Tombol samping berada di sisi kanan perangkat. Terdapat tiga kamera 12 MP di bagian belakang: Ultra Lebar, Lebar, dan Telefoto. Terdapat lampu kilat True Tone Dual-LED di bagian belakang dan baki SIM di sisi kanan yang menampung kartu nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM.</item>
+        <item>iPhone XS Max memiliki layar Super Retina menyeluruh 6,5 inci1. Bagian belakangnya terbuat dari kaca, dan terdapat tali baja tahan karat yang mengitari rangkanya. Tombol samping berada di sisi kanan perangkat. Terdapat kamera telefoto dan sudut lebar 12 MP di bagian belakang. Terdapat lampu kilat True Tone Quad-LED di bagian belakang dan baki SIM berada di sisi kanan yang menahan kartu nano-SIM "fourth form factor" (4FF). 3 IMEI terukir di baki SIM. </item>
+        <item>iPhone XR memiliki layar Liquid Retina 6,1 inci1. Bagian belakang terbuat dari kaca, dan terdapat pita aluminium teranodisasi yang mengitari rangkanya. Tombol samping berada di sisi kanan perangkat. Terdapat kamera sudut lebar 12 MP di bagian belakang. Terdapat lampu kilat True Tone Quad-LED di bagian belakang dan baki SIM berada di sisi kanan yang menahan kartu nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM.</item>
+        <item>iPhone X memiliki layar Super Retina menyeluruh 5,8 inci1. Bagian belakangnya terbuat dari kaca, dan terdapat tali baja tahan karat yang mengitari rangkanya. Tombol samping berada di sisi kanan perangkat. Terdapat kamera telefoto dan sudut lebar 12 MP di bagian belakang. Terdapat lampu kilat True Tone Quad-LED di bagian belakang dan baki SIM berada di sisi kanan yang menahan kartu nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM. </item>
+        <item>Layar berukuran 5,5 inci (diagonal). Bagian depan yang terbuat dari kaca berbentuk rata dengan tepi yang melengkung. Bagian belakang terbuat dari kaca, dan terdapat pita aluminium teranodisasi yang mengitari rangkanya. Tombol samping berada di sisi kanan perangkat. Perangkat memiliki tombol Utama solid-state dengan Touch ID. Terdapat kamera telefoto dan sudut lebar 12 MP di bagian belakang. Terdapat lampu kilat True Tone Quad-LED di bagian belakang dan baki SIM berada di sisi kanan yang menahan kartu nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM.</item>
+        <item>Layar berukuran 5,5 inci (diagonal). Bagian depan yang terbuat dari kaca berbentuk rata dengan tepi yang melengkung. Bagian belakang terbuat dari aluminium teranodisasi. Tombol Tidur/Bangun ada di sisi kanan perangkat. Perangkat memiliki tombol Utama solid-state dengan Touch ID. Terdapat kamera ganda 12 MP di bagian belakang. Terdapat lampu kilat True Tone Quad-LED di bagian belakang dan baki SIM berada di sisi kanan yang menahan kartu nano-SIM "fourth form factor" (4FF). IMEI terukir di baki SIM.</item>
+    </string-array>
+
+    <integer-array name="image_phone">
+        <item>@drawable/fourpromax</item>
+        <item>@drawable/se3</item>
+        <item>@drawable/threepromax</item>
+        <item>@drawable/twopromax</item>
+        <item>@drawable/onepromax</item>
+        <item>@drawable/xsmax</item>
+        <item>@drawable/xr</item>
+        <item>@drawable/x</item>
+        <item>@drawable/eightplus</item>
+        <item>@drawable/sevenplus</item>
+    </integer-array>
+
+</resources>
